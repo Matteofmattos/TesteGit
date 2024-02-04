@@ -1,2 +1,2 @@
 # TesteGit
-Testing comands 
+Testing git comands 
